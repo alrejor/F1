@@ -44,7 +44,7 @@ f1_drivers = [
     "Guanyu Zhou",
     "Valtteri Bottas",
     "Kevin Magnussen",
-    "Nico Hülkemberg",
+    "Nico Hülkenberg",
 ]
 
 # List of user names
